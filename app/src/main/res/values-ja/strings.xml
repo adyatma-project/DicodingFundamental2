@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Github BFAA 2</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit</string>
+    <string name="Cari">探している</string>
+    <string name="detail_title">ユーザーの詳細</string>
+    <string name="hello_blank_fragment">こんにちは空白の断片</string>
+    <string name="username">ユーザー名</string>
+    <string name="cari">探している</string>
+    <string name="lang">言語を変更</string>
+    <string name="repository">リポジトリ</string>
+    <string name="follower">フォロワー</string>
+    <string name="following">以下</string>
+    <string name="_0">0</string>
+    <string name="company">会社</string>
+</resources>

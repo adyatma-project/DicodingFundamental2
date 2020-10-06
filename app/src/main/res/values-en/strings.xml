@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Github BFAA 2</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit</string>
+    <string name="Cari">Search</string>
+    <string name="detail_title">User Detail</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">username</string>
+    <string name="cari">Search</string>
+    <string name="lang">Switch Language</string>
+    <string name="repository">Repository</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="_0">0</string>
+    <string name="company">Company</string>
+</resources>
